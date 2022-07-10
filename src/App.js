@@ -21,7 +21,7 @@ export default function Viewer() {
           minDistance={10}
           minPolarAngle={1.35}
           maxPolarAngle={2}
-          enablePan={true}
+          enablePan={false}
           ref={ref}
         />
       </Canvas>
